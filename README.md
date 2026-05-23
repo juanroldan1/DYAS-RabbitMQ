@@ -1,9 +1,11 @@
 ### Taller sobre RabbitMQ
 
 #### Objetivo
+
 El objetivo de este taller es aprender a utilizar RabbitMQ para la mensajería asincrónica en aplicaciones. Implementaremos ejemplos prácticos para entender cómo enviar y recibir mensajes utilizando RabbitMQ.
 
 #### Pre-requisitos
+
 - Conocimientos básicos de Java o Python.
 - Familiaridad con conceptos de mensajería y cola de mensajes.
 - Tener RabbitMQ instalado y en ejecución en tu máquina.
@@ -234,14 +236,17 @@ if __name__ == '__main__':
 ### Paso 5: Resumen y Conclusión
 
 #### Resumen del Taller
+
 - Aprendimos a utilizar RabbitMQ para la mensajería asincrónica.
 - Implementamos ejemplos de productores y consumidores en Java y Python.
 - Los estudiantes crearon sus propios ejemplos para aplicar lo aprendido.
 
 #### Conclusión
+
 RabbitMQ es una herramienta poderosa para la mensajería asincrónica y la integración de sistemas. Los conceptos y técnicas que hemos explorado en este taller son fundamentales para construir aplicaciones distribuidas y escalables. Continuar practicando con estos conceptos y explorando otros aspectos de RabbitMQ te permitirá construir aplicaciones más robustas y eficientes.
 
 ### Ejecución del Taller
+
 1. Configura tu entorno de desarrollo con las dependencias necesarias.
 2. Implementa y ejecuta cada ejemplo de productor y consumidor en Java o Python.
 3. Crea y comparte tu propio ejemplo utilizando los conceptos aprendidos.
